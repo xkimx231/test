@@ -2,7 +2,7 @@
 
 절대경로:
 
-![](https://github.com/qkboo/testtest/blob/master/0004637710_001_20210512155403795.jpg)
+![](https://github.com/xkimx231/testtest/blob/main/0004637710_001_20210512155403795.jpg)
 
 상대경로:
 ![](0004637710_001_20210512155403795.jpg)
